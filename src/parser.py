@@ -130,12 +130,13 @@ class ResumeDatabase:
         
         names = ['John Smith', 'Sarah Johnson', 'Mike Chen', 'Emma Davis', 'Alex Rodriguez']
         skills_list = list(SkillTaxonomy.SKILLS.keys())
+        education_options = ['Bachelor', 'Master', 'Bachelor, Diploma']
         
         data = []
         for i in range(n):
             skills = list(np.random.choice(skills_list, size=np.random.randint(3, 10), replace=False))
             exp_years = np.random.uniform(0, 20)
-            education = np.random.choice([['Bachelor'], ['Master'], ['Diploma', 'Bachelor']], p=[0.5, 0.3, 0.2])
+            education = np.random.choice(education_options, p=[0.5, 0.3, 0.2])
             
             data.append({
                 'candidate_id': f'CAND_{i:05d}',
@@ -144,8 +145,8 @@ class ResumeDatabase:
                 'phone': f'+1-555-000-{i:04d}',
                 'skills': ', '.join(skills),
                 'experience_years': round(exp_years, 1),
-                'education': ', '.join(education),
-                'score': 0
+                'education': education,
+                'resume_score': 0
             })
         
         return pd.DataFrame(data)

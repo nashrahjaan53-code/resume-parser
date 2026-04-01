@@ -1,0 +1,501 @@
+candidate_id,name,email,phone,skills,experience_years,education,resume_score
+CAND_00000,Sarah Johnson_0,candidate0@email.com,+1-555-000-0000,"Python, Java, Azure, Tableau, Excel, DevOps, Machine Learning, Data Science, JavaScript",1.1,Master,59.2
+CAND_00001,Emma Davis_1,candidate1@email.com,+1-555-000-0001,"Linux, Git, Docker, Tableau, SQL, Java",1.8,Master,51.6
+CAND_00002,Sarah Johnson_2,candidate2@email.com,+1-555-000-0002,"Excel, Git, Azure, Kubernetes, Tableau, Java, Data Science, Python, DevOps",7.7,Bachelor,72.4
+CAND_00003,Sarah Johnson_3,candidate3@email.com,+1-555-000-0003,"Machine Learning, Data Science, Azure, AWS, Linux, Git",10.9,Bachelor,68.0
+CAND_00004,Emma Davis_4,candidate4@email.com,+1-555-000-0004,"Tableau, Git, Python, JavaScript",7.1,Bachelor,56.2
+CAND_00005,Alex Rodriguez_5,candidate5@email.com,+1-555-000-0005,"Azure, Java, Data Science, AWS, JavaScript, SQL, DevOps",14.6,Master,71.0
+CAND_00006,Mike Chen_6,candidate6@email.com,+1-555-000-0006,"Excel, Azure, Git, JavaScript",11.2,Bachelor,62.0
+CAND_00007,Mike Chen_7,candidate7@email.com,+1-555-000-0007,"Excel, Tableau, Java",5.0,Bachelor,49.0
+CAND_00008,Mike Chen_8,candidate8@email.com,+1-555-000-0008,"Tableau, DevOps, Kubernetes, Excel, Python, Data Science, AWS",16.1,Bachelor,71.0
+CAND_00009,John Smith_9,candidate9@email.com,+1-555-000-0009,"Java, Kubernetes, AWS, Excel",0.1,Master,42.2
+CAND_00010,John Smith_10,candidate10@email.com,+1-555-000-0010,"Linux, Tableau, Docker, Java, DevOps, Machine Learning, SQL, Excel",9.9,Bachelor,73.8
+CAND_00011,Emma Davis_11,candidate11@email.com,+1-555-000-0011,"Machine Learning, Tableau, SQL",9.8,"Bachelor, Diploma",68.6
+CAND_00012,Alex Rodriguez_12,candidate12@email.com,+1-555-000-0012,"Docker, Data Science, DevOps, Machine Learning, JavaScript, Linux, Java, SQL, AWS",6.4,Bachelor,69.8
+CAND_00013,John Smith_13,candidate13@email.com,+1-555-000-0013,"Kubernetes, Java, AWS, Python, Azure",7.7,"Bachelor, Diploma",70.4
+CAND_00014,Alex Rodriguez_14,candidate14@email.com,+1-555-000-0014,"Linux, Azure, AWS, Kubernetes, Python",19.9,"Bachelor, Diploma",75.0
+CAND_00015,Mike Chen_15,candidate15@email.com,+1-555-000-0015,"AWS, Java, Excel, DevOps, Kubernetes, Python, Azure",15.7,Master,71.0
+CAND_00016,Mike Chen_16,candidate16@email.com,+1-555-000-0016,"Kubernetes, Data Science, Docker, Linux, SQL, Python, AWS, Excel",6.5,Master,67.0
+CAND_00017,John Smith_17,candidate17@email.com,+1-555-000-0017,"Tableau, SQL, Java",12.6,Master,59.0
+CAND_00018,Emma Davis_18,candidate18@email.com,+1-555-000-0018,"Machine Learning, Azure, Java, Linux, Data Science, Docker",5.6,"Bachelor, Diploma",69.2
+CAND_00019,John Smith_19,candidate19@email.com,+1-555-000-0019,"Java, Machine Learning, Data Science",6.3,Bachelor,51.6
+CAND_00020,John Smith_20,candidate20@email.com,+1-555-000-0020,"Python, AWS, SQL, DevOps",17.5,Master,62.0
+CAND_00021,Emma Davis_21,candidate21@email.com,+1-555-000-0021,"Excel, Tableau, Machine Learning",12.6,Bachelor,59.0
+CAND_00022,Mike Chen_22,candidate22@email.com,+1-555-000-0022,"Kubernetes, Machine Learning, SQL, Git, AWS",0.6,Bachelor,46.2
+CAND_00023,John Smith_23,candidate23@email.com,+1-555-000-0023,"Linux, Java, Excel, Data Science, JavaScript, Machine Learning",10.3,Bachelor,68.0
+CAND_00024,John Smith_24,candidate24@email.com,+1-555-000-0024,"Tableau, Java, Machine Learning, Kubernetes, SQL, Python, Excel, Azure, Git",18.3,Bachelor,77.0
+CAND_00025,John Smith_25,candidate25@email.com,+1-555-000-0025,"Git, Machine Learning, Data Science, Excel, Kubernetes, Java, SQL",6.8,Bachelor,64.6
+CAND_00026,Emma Davis_26,candidate26@email.com,+1-555-000-0026,"Azure, Kubernetes, Java, JavaScript, Machine Learning, Python, Linux, Docker",19.0,"Bachelor, Diploma",84.0
+CAND_00027,Emma Davis_27,candidate27@email.com,+1-555-000-0027,"DevOps, Azure, Linux, Docker, Git, Java, SQL, Machine Learning, AWS",11.5,Bachelor,77.0
+CAND_00028,Mike Chen_28,candidate28@email.com,+1-555-000-0028,"Azure, Docker, DevOps",2.0,Bachelor,43.0
+CAND_00029,John Smith_29,candidate29@email.com,+1-555-000-0029,"Git, Azure, AWS, Excel",18.7,Bachelor,62.0
+CAND_00030,Alex Rodriguez_30,candidate30@email.com,+1-555-000-0030,"Git, Azure, Java, Tableau, Docker, Python, JavaScript",15.5,Bachelor,71.0
+CAND_00031,Emma Davis_31,candidate31@email.com,+1-555-000-0031,"Data Science, Java, Kubernetes, AWS, SQL, DevOps",6.0,Bachelor,60.0
+CAND_00032,John Smith_32,candidate32@email.com,+1-555-000-0032,"Git, Data Science, Python, Kubernetes, Azure, AWS",13.5,Master,68.0
+CAND_00033,Emma Davis_33,candidate33@email.com,+1-555-000-0033,"SQL, Python, Java, Azure, Kubernetes, Machine Learning, Git, JavaScript, Excel",2.9,Master,62.8
+CAND_00034,John Smith_34,candidate34@email.com,+1-555-000-0034,"DevOps, Excel, SQL",19.7,Bachelor,59.0
+CAND_00035,Mike Chen_35,candidate35@email.com,+1-555-000-0035,"DevOps, Excel, Java, Kubernetes, AWS, JavaScript, Linux, Data Science",8.5,"Bachelor, Diploma",81.0
+CAND_00036,John Smith_36,candidate36@email.com,+1-555-000-0036,"Azure, Tableau, Excel, Git, AWS, JavaScript, Python",7.5,Bachelor,66.0
+CAND_00037,John Smith_37,candidate37@email.com,+1-555-000-0037,"Python, Java, Linux, Kubernetes, Docker, Machine Learning, SQL, JavaScript",1.5,Bachelor,57.0
+CAND_00038,Sarah Johnson_38,candidate38@email.com,+1-555-000-0038,"Kubernetes, Machine Learning, Linux, Git, Java, SQL, Data Science, Excel",2.1,Bachelor,58.2
+CAND_00039,Alex Rodriguez_39,candidate39@email.com,+1-555-000-0039,"Git, Docker, Linux, DevOps, Python, Azure",16.3,Master,68.0
+CAND_00040,John Smith_40,candidate40@email.com,+1-555-000-0040,"Kubernetes, Data Science, Machine Learning, SQL, DevOps, Git, Python",11.0,Bachelor,71.0
+CAND_00041,Alex Rodriguez_41,candidate41@email.com,+1-555-000-0041,"Kubernetes, Excel, SQL, DevOps, Linux, Docker, JavaScript, Azure",0.7,Bachelor,55.4
+CAND_00042,John Smith_42,candidate42@email.com,+1-555-000-0042,"SQL, Machine Learning, Java, Linux, Data Science, Kubernetes, Docker, Git, JavaScript",7.6,Bachelor,72.2
+CAND_00043,Emma Davis_43,candidate43@email.com,+1-555-000-0043,"Data Science, Excel, Azure, AWS, Docker, DevOps, Java, Machine Learning",15.4,Master,74.0
+CAND_00044,Sarah Johnson_44,candidate44@email.com,+1-555-000-0044,"Tableau, Data Science, SQL",2.7,Bachelor,44.4
+CAND_00045,John Smith_45,candidate45@email.com,+1-555-000-0045,"AWS, Kubernetes, Docker, DevOps",15.9,Bachelor,62.0
+CAND_00046,Mike Chen_46,candidate46@email.com,+1-555-000-0046,"Docker, Tableau, Linux, Machine Learning",10.7,Bachelor,62.0
+CAND_00047,Alex Rodriguez_47,candidate47@email.com,+1-555-000-0047,"Azure, Python, Java, DevOps, AWS, Docker, Data Science, Git",3.8,Bachelor,61.6
+CAND_00048,John Smith_48,candidate48@email.com,+1-555-000-0048,"JavaScript, Docker, Excel, Kubernetes",10.1,Master,62.0
+CAND_00049,Sarah Johnson_49,candidate49@email.com,+1-555-000-0049,"Java, Docker, Linux, Excel",7.4,Bachelor,56.8
+CAND_00050,John Smith_50,candidate50@email.com,+1-555-000-0050,"SQL, DevOps, Python, AWS, Git, Azure",8.9,Master,65.8
+CAND_00051,Mike Chen_51,candidate51@email.com,+1-555-000-0051,"Git, JavaScript, Tableau, Linux, SQL, Kubernetes, Java, Azure, Excel",11.9,Master,77.0
+CAND_00052,Mike Chen_52,candidate52@email.com,+1-555-000-0052,"DevOps, AWS, Docker",18.0,Master,59.0
+CAND_00053,John Smith_53,candidate53@email.com,+1-555-000-0053,"Git, Kubernetes, JavaScript, Java, SQL",5.7,Bachelor,56.4
+CAND_00054,Mike Chen_54,candidate54@email.com,+1-555-000-0054,"Python, Data Science, DevOps, Machine Learning, Excel, Docker, Git, Java, Azure",19.5,Bachelor,77.0
+CAND_00055,Sarah Johnson_55,candidate55@email.com,+1-555-000-0055,"Tableau, Docker, Python, Linux, SQL, DevOps, Excel, Azure",4.8,Bachelor,63.6
+CAND_00056,Emma Davis_56,candidate56@email.com,+1-555-000-0056,"Machine Learning, DevOps, Kubernetes, Data Science, Excel, Docker, Java, Tableau",4.0,Master,62.0
+CAND_00057,Mike Chen_57,candidate57@email.com,+1-555-000-0057,"SQL, Data Science, Java",19.3,Bachelor,59.0
+CAND_00058,Alex Rodriguez_58,candidate58@email.com,+1-555-000-0058,"Data Science, Machine Learning, Tableau",3.3,Bachelor,45.6
+CAND_00059,John Smith_59,candidate59@email.com,+1-555-000-0059,"AWS, DevOps, Kubernetes, Python, JavaScript",15.0,Master,65.0
+CAND_00060,Alex Rodriguez_60,candidate60@email.com,+1-555-000-0060,"Tableau, Linux, SQL",13.9,Bachelor,59.0
+CAND_00061,Alex Rodriguez_61,candidate61@email.com,+1-555-000-0061,"DevOps, Java, Kubernetes",4.1,Master,47.2
+CAND_00062,Mike Chen_62,candidate62@email.com,+1-555-000-0062,"Machine Learning, Java, JavaScript, Excel, DevOps",14.4,Master,65.0
+CAND_00063,Sarah Johnson_63,candidate63@email.com,+1-555-000-0063,"Python, Machine Learning, Kubernetes, Linux, Docker",18.2,Bachelor,65.0
+CAND_00064,John Smith_64,candidate64@email.com,+1-555-000-0064,"Docker, Azure, JavaScript",1.4,Bachelor,41.8
+CAND_00065,John Smith_65,candidate65@email.com,+1-555-000-0065,"Machine Learning, Tableau, Java, JavaScript, Kubernetes, Linux, Excel, Azure",4.5,Master,63.0
+CAND_00066,Sarah Johnson_66,candidate66@email.com,+1-555-000-0066,"Git, Azure, Kubernetes, Java, Python, Linux, Docker",6.9,Bachelor,64.8
+CAND_00067,Sarah Johnson_67,candidate67@email.com,+1-555-000-0067,"Java, Data Science, Docker, Machine Learning, AWS",15.6,Bachelor,65.0
+CAND_00068,Alex Rodriguez_68,candidate68@email.com,+1-555-000-0068,"Excel, Tableau, Kubernetes, JavaScript, DevOps, Azure",10.0,Master,68.0
+CAND_00069,Mike Chen_69,candidate69@email.com,+1-555-000-0069,"Azure, SQL, Tableau, AWS, Machine Learning, Data Science, Java, Linux",10.7,Bachelor,74.0
+CAND_00070,John Smith_70,candidate70@email.com,+1-555-000-0070,"AWS, Git, Linux, Machine Learning, Excel, Tableau, Java, Azure, Data Science",16.8,"Bachelor, Diploma",87.0
+CAND_00071,Mike Chen_71,candidate71@email.com,+1-555-000-0071,"SQL, Java, Data Science",4.8,Bachelor,48.6
+CAND_00072,Sarah Johnson_72,candidate72@email.com,+1-555-000-0072,"Kubernetes, Tableau, Linux, JavaScript, DevOps, Python",11.7,Bachelor,68.0
+CAND_00073,Alex Rodriguez_73,candidate73@email.com,+1-555-000-0073,"Machine Learning, DevOps, Excel",15.5,Bachelor,59.0
+CAND_00074,John Smith_74,candidate74@email.com,+1-555-000-0074,"Excel, AWS, Docker, Machine Learning, Java, Linux",14.8,Master,68.0
+CAND_00075,John Smith_75,candidate75@email.com,+1-555-000-0075,"Linux, Kubernetes, Python, DevOps, Tableau, JavaScript, AWS, Docker, Java",11.5,Bachelor,77.0
+CAND_00076,Sarah Johnson_76,candidate76@email.com,+1-555-000-0076,"Tableau, Kubernetes, Java, SQL, Git, Python, JavaScript",12.7,Bachelor,71.0
+CAND_00077,Mike Chen_77,candidate77@email.com,+1-555-000-0077,"Docker, Git, Machine Learning, SQL, Linux, Kubernetes, Tableau",1.4,"Bachelor, Diploma",63.8
+CAND_00078,Mike Chen_78,candidate78@email.com,+1-555-000-0078,"Excel, Machine Learning, Tableau, SQL, AWS, Data Science",0.6,Bachelor,49.2
+CAND_00079,Mike Chen_79,candidate79@email.com,+1-555-000-0079,"Data Science, JavaScript, SQL, Kubernetes, Azure, Docker",13.8,Bachelor,68.0
+CAND_00080,John Smith_80,candidate80@email.com,+1-555-000-0080,"Machine Learning, Python, Data Science, Docker, Kubernetes",2.7,"Bachelor, Diploma",60.4
+CAND_00081,Alex Rodriguez_81,candidate81@email.com,+1-555-000-0081,"Tableau, SQL, Git, Java, Machine Learning, Azure, Data Science, Docker, Python",4.4,"Bachelor, Diploma",75.8
+CAND_00082,Alex Rodriguez_82,candidate82@email.com,+1-555-000-0082,"Git, SQL, DevOps, JavaScript",18.5,"Bachelor, Diploma",72.0
+CAND_00083,Sarah Johnson_83,candidate83@email.com,+1-555-000-0083,"Machine Learning, Data Science, Kubernetes, AWS",17.7,Master,62.0
+CAND_00084,Mike Chen_84,candidate84@email.com,+1-555-000-0084,"JavaScript, Machine Learning, Linux, Data Science, Excel, Java, AWS, Git, Azure",17.5,Bachelor,77.0
+CAND_00085,Emma Davis_85,candidate85@email.com,+1-555-000-0085,"Data Science, Machine Learning, Linux, Kubernetes",9.6,Master,61.2
+CAND_00086,John Smith_86,candidate86@email.com,+1-555-000-0086,"DevOps, Kubernetes, Git, Java, Excel, JavaScript, Linux, Azure, Python",5.9,Bachelor,68.8
+CAND_00087,Mike Chen_87,candidate87@email.com,+1-555-000-0087,"Azure, Docker, Data Science",11.8,"Bachelor, Diploma",69.0
+CAND_00088,Sarah Johnson_88,candidate88@email.com,+1-555-000-0088,"Tableau, Excel, Python, JavaScript, DevOps, Azure, AWS, Data Science",4.6,Bachelor,63.2
+CAND_00089,Sarah Johnson_89,candidate89@email.com,+1-555-000-0089,"SQL, Machine Learning, Java",3.5,Bachelor,46.0
+CAND_00090,Mike Chen_90,candidate90@email.com,+1-555-000-0090,"Git, Machine Learning, Java, SQL",1.8,"Bachelor, Diploma",55.6
+CAND_00091,Mike Chen_91,candidate91@email.com,+1-555-000-0091,"Kubernetes, SQL, Data Science, Azure, Tableau",5.1,Bachelor,55.2
+CAND_00092,Mike Chen_92,candidate92@email.com,+1-555-000-0092,"SQL, Tableau, Machine Learning, JavaScript, Docker, Linux, Git",7.0,Master,65.0
+CAND_00093,Mike Chen_93,candidate93@email.com,+1-555-000-0093,"Java, SQL, Tableau, Docker, AWS, Machine Learning, Data Science",18.6,Bachelor,71.0
+CAND_00094,Emma Davis_94,candidate94@email.com,+1-555-000-0094,"Linux, Python, Tableau, SQL, Azure, Java, Kubernetes, Excel",14.9,Bachelor,74.0
+CAND_00095,Sarah Johnson_95,candidate95@email.com,+1-555-000-0095,"Azure, JavaScript, Git, AWS",2.6,Bachelor,47.2
+CAND_00096,John Smith_96,candidate96@email.com,+1-555-000-0096,"Linux, Git, Python",1.3,Master,41.6
+CAND_00097,Mike Chen_97,candidate97@email.com,+1-555-000-0097,"Azure, Linux, Python, Machine Learning, Docker, Excel, AWS, Tableau",7.4,"Bachelor, Diploma",78.8
+CAND_00098,Mike Chen_98,candidate98@email.com,+1-555-000-0098,"Git, Tableau, DevOps, Machine Learning",13.6,Master,62.0
+CAND_00099,Sarah Johnson_99,candidate99@email.com,+1-555-000-0099,"Java, Linux, Machine Learning, Docker, Data Science",6.4,Master,57.8
+CAND_00100,Emma Davis_100,candidate100@email.com,+1-555-000-0100,"Data Science, Azure, SQL, Git, Tableau, Docker, AWS",0.4,Master,51.8
+CAND_00101,Alex Rodriguez_101,candidate101@email.com,+1-555-000-0101,"Excel, Java, Tableau, AWS, Linux, Git, Azure",4.5,Bachelor,60.0
+CAND_00102,Mike Chen_102,candidate102@email.com,+1-555-000-0102,"Docker, Machine Learning, SQL, DevOps, JavaScript, Data Science, Azure",19.1,"Bachelor, Diploma",81.0
+CAND_00103,John Smith_103,candidate103@email.com,+1-555-000-0103,"Git, Tableau, AWS, Docker, Java, DevOps, Excel, SQL",1.4,Master,56.8
+CAND_00104,Mike Chen_104,candidate104@email.com,+1-555-000-0104,"Tableau, DevOps, JavaScript, AWS, Machine Learning, Kubernetes, Git",0.8,Master,52.6
+CAND_00105,Mike Chen_105,candidate105@email.com,+1-555-000-0105,"Kubernetes, Tableau, Excel, AWS, SQL, Java, Python",16.0,Bachelor,71.0
+CAND_00106,Emma Davis_106,candidate106@email.com,+1-555-000-0106,"AWS, Machine Learning, Kubernetes, DevOps, Python, JavaScript, Tableau, Java, Excel",1.6,Bachelor,60.2
+CAND_00107,John Smith_107,candidate107@email.com,+1-555-000-0107,"Python, Azure, Java, Tableau, Git, DevOps, Kubernetes",14.4,Bachelor,71.0
+CAND_00108,Emma Davis_108,candidate108@email.com,+1-555-000-0108,"Kubernetes, Linux, Java, Git, AWS",16.9,Master,65.0
+CAND_00109,Emma Davis_109,candidate109@email.com,+1-555-000-0109,"Azure, Machine Learning, AWS, Docker, Git, Tableau",12.1,Master,68.0
+CAND_00110,Sarah Johnson_110,candidate110@email.com,+1-555-000-0110,"Git, SQL, Tableau, Machine Learning, Python, Kubernetes, Java, AWS",8.1,Master,70.2
+CAND_00111,Sarah Johnson_111,candidate111@email.com,+1-555-000-0111,"Kubernetes, Linux, JavaScript, DevOps, SQL, Machine Learning",10.3,Bachelor,68.0
+CAND_00112,Mike Chen_112,candidate112@email.com,+1-555-000-0112,"Data Science, Linux, Tableau, Docker, SQL, Excel, Kubernetes, AWS, JavaScript",9.1,Bachelor,75.2
+CAND_00113,Alex Rodriguez_113,candidate113@email.com,+1-555-000-0113,"Azure, Docker, Java, Git, DevOps, Kubernetes, JavaScript, SQL",7.6,Master,69.2
+CAND_00114,Mike Chen_114,candidate114@email.com,+1-555-000-0114,"Machine Learning, Docker, Tableau, JavaScript, Linux, Git",1.0,Master,50.0
+CAND_00115,John Smith_115,candidate115@email.com,+1-555-000-0115,"DevOps, Machine Learning, Kubernetes, Data Science, Docker, Java, SQL, Azure",13.7,Bachelor,74.0
+CAND_00116,Alex Rodriguez_116,candidate116@email.com,+1-555-000-0116,"Python, JavaScript, Data Science, Excel",14.7,Bachelor,62.0
+CAND_00117,John Smith_117,candidate117@email.com,+1-555-000-0117,"Excel, Git, SQL",4.9,"Bachelor, Diploma",58.8
+CAND_00118,John Smith_118,candidate118@email.com,+1-555-000-0118,"DevOps, Linux, Java, Data Science, Excel, AWS",13.2,"Bachelor, Diploma",78.0
+CAND_00119,Mike Chen_119,candidate119@email.com,+1-555-000-0119,"Python, Docker, JavaScript",18.0,"Bachelor, Diploma",69.0
+CAND_00120,John Smith_120,candidate120@email.com,+1-555-000-0120,"Data Science, Linux, DevOps, JavaScript, Java, SQL, Excel",7.6,Master,66.2
+CAND_00121,Sarah Johnson_121,candidate121@email.com,+1-555-000-0121,"SQL, Git, Tableau",10.8,"Bachelor, Diploma",69.0
+CAND_00122,Emma Davis_122,candidate122@email.com,+1-555-000-0122,"Python, Git, Docker, JavaScript, Azure, SQL, Tableau, Kubernetes",11.0,Master,74.0
+CAND_00123,Mike Chen_123,candidate123@email.com,+1-555-000-0123,"Java, Azure, Machine Learning, JavaScript, Kubernetes",3.9,Bachelor,52.8
+CAND_00124,Mike Chen_124,candidate124@email.com,+1-555-000-0124,"Azure, Data Science, Python, DevOps",8.3,Bachelor,58.6
+CAND_00125,Alex Rodriguez_125,candidate125@email.com,+1-555-000-0125,"JavaScript, Machine Learning, Azure, Git, SQL, Linux, AWS, Java, Python",16.3,Bachelor,77.0
+CAND_00126,Sarah Johnson_126,candidate126@email.com,+1-555-000-0126,"DevOps, Machine Learning, JavaScript, Kubernetes",3.5,Bachelor,49.0
+CAND_00127,Alex Rodriguez_127,candidate127@email.com,+1-555-000-0127,"Linux, Docker, Machine Learning",3.0,Bachelor,45.0
+CAND_00128,Alex Rodriguez_128,candidate128@email.com,+1-555-000-0128,"Kubernetes, Linux, Data Science, SQL, Excel, Machine Learning, Azure, Git, AWS",12.8,Bachelor,77.0
+CAND_00129,Mike Chen_129,candidate129@email.com,+1-555-000-0129,"Azure, SQL, Python, Data Science, Linux, Kubernetes, Git",0.3,Bachelor,51.6
+CAND_00130,Alex Rodriguez_130,candidate130@email.com,+1-555-000-0130,"Java, Excel, Machine Learning, DevOps, Linux, JavaScript",6.9,Master,61.8
+CAND_00131,Emma Davis_131,candidate131@email.com,+1-555-000-0131,"Machine Learning, Data Science, Docker",3.8,Bachelor,46.6
+CAND_00132,Sarah Johnson_132,candidate132@email.com,+1-555-000-0132,"Machine Learning, Linux, AWS, Excel",13.8,Bachelor,62.0
+CAND_00133,John Smith_133,candidate133@email.com,+1-555-000-0133,"Linux, Git, Java, Data Science, Tableau, AWS, Azure, JavaScript",14.7,Master,74.0
+CAND_00134,Sarah Johnson_134,candidate134@email.com,+1-555-000-0134,"JavaScript, Machine Learning, Git",0.7,Bachelor,40.4
+CAND_00135,Mike Chen_135,candidate135@email.com,+1-555-000-0135,"Kubernetes, Linux, Azure, DevOps, SQL, Docker, JavaScript",12.0,Master,71.0
+CAND_00136,Mike Chen_136,candidate136@email.com,+1-555-000-0136,"Machine Learning, Tableau, Docker, JavaScript, Linux, Kubernetes, Excel, Java",10.6,Master,74.0
+CAND_00137,John Smith_137,candidate137@email.com,+1-555-000-0137,"Kubernetes, Python, DevOps, Docker, Tableau, Azure, Linux, Git, Data Science",11.5,Bachelor,77.0
+CAND_00138,Emma Davis_138,candidate138@email.com,+1-555-000-0138,"Git, Machine Learning, Java, Docker, AWS, Kubernetes",9.6,Master,67.2
+CAND_00139,Mike Chen_139,candidate139@email.com,+1-555-000-0139,"Kubernetes, Machine Learning, AWS, Python, Data Science, JavaScript, Docker",9.2,Bachelor,69.4
+CAND_00140,Alex Rodriguez_140,candidate140@email.com,+1-555-000-0140,"Azure, Java, DevOps, Excel",12.7,Bachelor,62.0
+CAND_00141,Emma Davis_141,candidate141@email.com,+1-555-000-0141,"Python, Data Science, Kubernetes, JavaScript, Git, AWS, Machine Learning, Java, Docker",3.9,Bachelor,64.8
+CAND_00142,Alex Rodriguez_142,candidate142@email.com,+1-555-000-0142,"Python, SQL, Data Science, Machine Learning, Kubernetes, Git, JavaScript, DevOps",3.8,Master,61.6
+CAND_00143,Alex Rodriguez_143,candidate143@email.com,+1-555-000-0143,"Tableau, Docker, Kubernetes, Azure, JavaScript, Python, SQL",10.0,Bachelor,71.0
+CAND_00144,John Smith_144,candidate144@email.com,+1-555-000-0144,"Machine Learning, Data Science, Azure, Git",19.1,Bachelor,62.0
+CAND_00145,John Smith_145,candidate145@email.com,+1-555-000-0145,"Git, Kubernetes, Azure",7.7,Bachelor,54.4
+CAND_00146,John Smith_146,candidate146@email.com,+1-555-000-0146,"Java, Azure, SQL, Git, Machine Learning, Excel, Data Science, Linux, Tableau",1.4,Bachelor,59.8
+CAND_00147,Sarah Johnson_147,candidate147@email.com,+1-555-000-0147,"Azure, Python, Java, Excel, Linux, DevOps, Machine Learning",11.0,"Bachelor, Diploma",81.0
+CAND_00148,Sarah Johnson_148,candidate148@email.com,+1-555-000-0148,"SQL, AWS, Azure, Linux, JavaScript, Git, Docker, Java",15.5,Master,74.0
+CAND_00149,John Smith_149,candidate149@email.com,+1-555-000-0149,"Python, Linux, JavaScript, Machine Learning, Git, Docker, DevOps, Azure, Tableau",6.8,"Bachelor, Diploma",80.6
+CAND_00150,Sarah Johnson_150,candidate150@email.com,+1-555-000-0150,"Python, Linux, JavaScript",0.3,"Bachelor, Diploma",49.6
+CAND_00151,Emma Davis_151,candidate151@email.com,+1-555-000-0151,"Linux, Data Science, JavaScript, Excel, SQL, Kubernetes, Azure, Git",10.9,"Bachelor, Diploma",84.0
+CAND_00152,Mike Chen_152,candidate152@email.com,+1-555-000-0152,"Data Science, Azure, Kubernetes, Python, Machine Learning, DevOps, Git",10.2,Bachelor,71.0
+CAND_00153,Sarah Johnson_153,candidate153@email.com,+1-555-000-0153,"Tableau, Data Science, JavaScript, Azure, SQL, Python, Git, Java, Kubernetes",5.6,Bachelor,68.2
+CAND_00154,John Smith_154,candidate154@email.com,+1-555-000-0154,"Azure, JavaScript, Linux, Tableau",15.2,Bachelor,62.0
+CAND_00155,Sarah Johnson_155,candidate155@email.com,+1-555-000-0155,"Data Science, DevOps, Linux, Python, Git, Azure, Kubernetes, Docker",7.7,Master,69.4
+CAND_00156,Emma Davis_156,candidate156@email.com,+1-555-000-0156,"Excel, Tableau, Python, Machine Learning, SQL, Java, Git, Docker",1.9,Master,57.8
+CAND_00157,Mike Chen_157,candidate157@email.com,+1-555-000-0157,"Python, DevOps, Linux, Tableau, Git, Java, Azure",16.5,Bachelor,71.0
+CAND_00158,Emma Davis_158,candidate158@email.com,+1-555-000-0158,"Git, Python, Docker, Java, Machine Learning, Excel, JavaScript, Tableau",8.7,Bachelor,71.4
+CAND_00159,Emma Davis_159,candidate159@email.com,+1-555-000-0159,"Java, Kubernetes, JavaScript",13.7,"Bachelor, Diploma",69.0
+CAND_00160,Alex Rodriguez_160,candidate160@email.com,+1-555-000-0160,"Tableau, Azure, Linux, Git, Python",5.5,Master,56.0
+CAND_00161,Emma Davis_161,candidate161@email.com,+1-555-000-0161,"Azure, Git, Java, Docker, Python",9.7,Bachelor,64.4
+CAND_00162,Alex Rodriguez_162,candidate162@email.com,+1-555-000-0162,"Linux, DevOps, Excel, AWS, Data Science, Git, Azure, SQL",18.5,Bachelor,74.0
+CAND_00163,Mike Chen_163,candidate163@email.com,+1-555-000-0163,"Linux, AWS, Tableau, Python, Machine Learning, Java, Excel, SQL",1.3,Bachelor,56.6
+CAND_00164,Alex Rodriguez_164,candidate164@email.com,+1-555-000-0164,"Kubernetes, Linux, Docker, Excel, DevOps, Azure",2.6,"Bachelor, Diploma",63.2
+CAND_00165,Emma Davis_165,candidate165@email.com,+1-555-000-0165,"Docker, Azure, SQL, Python",6.2,"Bachelor, Diploma",64.4
+CAND_00166,John Smith_166,candidate166@email.com,+1-555-000-0166,"DevOps, JavaScript, Git",17.2,Master,59.0
+CAND_00167,Mike Chen_167,candidate167@email.com,+1-555-000-0167,"Kubernetes, JavaScript, SQL, Docker, Data Science, AWS, Machine Learning, Linux, DevOps",4.3,Bachelor,65.6
+CAND_00168,Alex Rodriguez_168,candidate168@email.com,+1-555-000-0168,"Tableau, Data Science, Java, SQL, AWS, Python, Machine Learning",15.2,Master,71.0
+CAND_00169,Emma Davis_169,candidate169@email.com,+1-555-000-0169,"AWS, Data Science, Tableau, Excel, JavaScript, Linux, Java, Docker, Python",10.0,Bachelor,77.0
+CAND_00170,John Smith_170,candidate170@email.com,+1-555-000-0170,"Kubernetes, Azure, Python, Data Science, Docker, Linux, SQL, Tableau, DevOps",5.5,Bachelor,68.0
+CAND_00171,Emma Davis_171,candidate171@email.com,+1-555-000-0171,"Python, Docker, Linux, Machine Learning, AWS, JavaScript, DevOps, Git, Azure",3.4,Master,63.8
+CAND_00172,John Smith_172,candidate172@email.com,+1-555-000-0172,"Data Science, Java, Python",14.8,Bachelor,59.0
+CAND_00173,Sarah Johnson_173,candidate173@email.com,+1-555-000-0173,"Kubernetes, DevOps, Data Science, Python, Machine Learning, JavaScript, Excel, Git, Azure",10.5,Master,77.0
+CAND_00174,John Smith_174,candidate174@email.com,+1-555-000-0174,"Kubernetes, Docker, Python, Linux",18.0,Master,62.0
+CAND_00175,Mike Chen_175,candidate175@email.com,+1-555-000-0175,"SQL, Docker, Machine Learning, DevOps, Git, Python, Linux",14.8,Bachelor,71.0
+CAND_00176,John Smith_176,candidate176@email.com,+1-555-000-0176,"Tableau, Machine Learning, Kubernetes",3.3,Master,45.6
+CAND_00177,Mike Chen_177,candidate177@email.com,+1-555-000-0177,"Tableau, Kubernetes, Linux, Java, DevOps, Git, Python, Excel, AWS",17.4,Master,77.0
+CAND_00178,Mike Chen_178,candidate178@email.com,+1-555-000-0178,"Tableau, AWS, Machine Learning, DevOps, SQL, Data Science",8.3,"Bachelor, Diploma",74.6
+CAND_00179,John Smith_179,candidate179@email.com,+1-555-000-0179,"SQL, Excel, Java, AWS, DevOps, JavaScript",16.1,Bachelor,68.0
+CAND_00180,Emma Davis_180,candidate180@email.com,+1-555-000-0180,"Git, Java, Python, Linux, Data Science",0.9,Master,46.8
+CAND_00181,Alex Rodriguez_181,candidate181@email.com,+1-555-000-0181,"Kubernetes, Linux, Azure",6.8,"Bachelor, Diploma",62.6
+CAND_00182,Alex Rodriguez_182,candidate182@email.com,+1-555-000-0182,"Azure, Data Science, Linux, Tableau, SQL, Kubernetes, Machine Learning, Docker",2.3,Bachelor,58.6
+CAND_00183,Alex Rodriguez_183,candidate183@email.com,+1-555-000-0183,"Machine Learning, Data Science, Excel",12.0,"Bachelor, Diploma",69.0
+CAND_00184,Sarah Johnson_184,candidate184@email.com,+1-555-000-0184,"Python, Data Science, Java, Excel, DevOps, Tableau, Docker, Git",9.8,Master,73.6
+CAND_00185,Mike Chen_185,candidate185@email.com,+1-555-000-0185,"JavaScript, AWS, SQL, Data Science",12.1,"Bachelor, Diploma",72.0
+CAND_00186,Mike Chen_186,candidate186@email.com,+1-555-000-0186,"Linux, Java, Azure, Docker, DevOps, SQL",17.1,Bachelor,68.0
+CAND_00187,John Smith_187,candidate187@email.com,+1-555-000-0187,"Linux, Machine Learning, SQL, Tableau, JavaScript, Java",7.9,Bachelor,63.8
+CAND_00188,Emma Davis_188,candidate188@email.com,+1-555-000-0188,"Java, SQL, Python",5.5,Bachelor,50.0
+CAND_00189,John Smith_189,candidate189@email.com,+1-555-000-0189,"Linux, Azure, Machine Learning, JavaScript, Git",14.4,"Bachelor, Diploma",75.0
+CAND_00190,John Smith_190,candidate190@email.com,+1-555-000-0190,"Kubernetes, Azure, Data Science, Docker, Machine Learning, JavaScript, AWS, DevOps, Git",8.1,Bachelor,73.2
+CAND_00191,Alex Rodriguez_191,candidate191@email.com,+1-555-000-0191,"AWS, Excel, SQL, Kubernetes, Docker, Python, Azure, DevOps, Git",12.8,Master,77.0
+CAND_00192,John Smith_192,candidate192@email.com,+1-555-000-0192,"Linux, Azure, SQL, Docker, DevOps, AWS, Git, Data Science",11.2,Bachelor,74.0
+CAND_00193,Mike Chen_193,candidate193@email.com,+1-555-000-0193,"Linux, Machine Learning, Data Science, Tableau, Kubernetes, Python, Docker, Excel",8.9,Master,71.8
+CAND_00194,Emma Davis_194,candidate194@email.com,+1-555-000-0194,"AWS, Java, JavaScript, Git, Python",3.3,Bachelor,51.6
+CAND_00195,Sarah Johnson_195,candidate195@email.com,+1-555-000-0195,"Tableau, Linux, AWS, Machine Learning, Azure, Docker, Git",2.0,"Bachelor, Diploma",65.0
+CAND_00196,Mike Chen_196,candidate196@email.com,+1-555-000-0196,"Git, Machine Learning, Data Science, Tableau, Docker, JavaScript",2.0,Bachelor,52.0
+CAND_00197,Emma Davis_197,candidate197@email.com,+1-555-000-0197,"DevOps, Excel, Python, SQL, Kubernetes",17.8,Master,65.0
+CAND_00198,Mike Chen_198,candidate198@email.com,+1-555-000-0198,"JavaScript, Java, Kubernetes",3.4,Bachelor,45.8
+CAND_00199,Alex Rodriguez_199,candidate199@email.com,+1-555-000-0199,"Excel, Git, DevOps, Kubernetes, Machine Learning",10.9,Bachelor,65.0
+CAND_00200,Emma Davis_200,candidate200@email.com,+1-555-000-0200,"Machine Learning, AWS, Docker, Kubernetes, Data Science",4.0,Bachelor,53.0
+CAND_00201,John Smith_201,candidate201@email.com,+1-555-000-0201,"Kubernetes, Docker, Tableau, Machine Learning, Linux, Data Science, DevOps",15.8,Bachelor,71.0
+CAND_00202,Mike Chen_202,candidate202@email.com,+1-555-000-0202,"Kubernetes, Linux, Docker, AWS, Git, SQL",6.0,Bachelor,60.0
+CAND_00203,Emma Davis_203,candidate203@email.com,+1-555-000-0203,"Linux, SQL, Azure",8.9,Master,56.8
+CAND_00204,Sarah Johnson_204,candidate204@email.com,+1-555-000-0204,"Java, Git, Docker, AWS, Azure, Excel, DevOps, Tableau, Data Science",19.4,Bachelor,77.0
+CAND_00205,Mike Chen_205,candidate205@email.com,+1-555-000-0205,"Machine Learning, Tableau, DevOps, Docker, Python, Java, SQL, Kubernetes",10.6,Master,74.0
+CAND_00206,Alex Rodriguez_206,candidate206@email.com,+1-555-000-0206,"Tableau, Git, Azure, AWS, Machine Learning",2.9,Master,50.8
+CAND_00207,Emma Davis_207,candidate207@email.com,+1-555-000-0207,"Data Science, AWS, DevOps, Tableau, Linux, Azure",6.1,Master,60.2
+CAND_00208,Emma Davis_208,candidate208@email.com,+1-555-000-0208,"Docker, DevOps, AWS, SQL, Data Science, Machine Learning, Python",2.9,Master,56.8
+CAND_00209,Alex Rodriguez_209,candidate209@email.com,+1-555-000-0209,"Excel, Java, SQL, Machine Learning",19.6,Master,62.0
+CAND_00210,Alex Rodriguez_210,candidate210@email.com,+1-555-000-0210,"DevOps, JavaScript, Java, AWS, Data Science",9.3,Bachelor,63.6
+CAND_00211,John Smith_211,candidate211@email.com,+1-555-000-0211,"JavaScript, Python, Data Science, AWS, Machine Learning, Tableau, DevOps, Linux, Java",1.1,Master,59.2
+CAND_00212,Mike Chen_212,candidate212@email.com,+1-555-000-0212,"JavaScript, SQL, AWS, Machine Learning, Kubernetes, Git, Docker, Tableau, DevOps",14.8,Bachelor,77.0
+CAND_00213,Alex Rodriguez_213,candidate213@email.com,+1-555-000-0213,"Kubernetes, Docker, Tableau",7.5,"Bachelor, Diploma",64.0
+CAND_00214,John Smith_214,candidate214@email.com,+1-555-000-0214,"Linux, SQL, DevOps",19.3,Master,59.0
+CAND_00215,Mike Chen_215,candidate215@email.com,+1-555-000-0215,"Kubernetes, Linux, Azure, Docker, Python, Java",7.7,"Bachelor, Diploma",73.4
+CAND_00216,Mike Chen_216,candidate216@email.com,+1-555-000-0216,"Python, Data Science, Linux, SQL, Azure, Kubernetes, Tableau, AWS, Git",4.2,Master,65.4
+CAND_00217,John Smith_217,candidate217@email.com,+1-555-000-0217,"Linux, Excel, AWS, JavaScript, Data Science, DevOps, Git, Tableau",1.0,Master,56.0
+CAND_00218,Sarah Johnson_218,candidate218@email.com,+1-555-000-0218,"Kubernetes, Docker, Data Science, Excel, SQL, Tableau",0.3,Bachelor,48.6
+CAND_00219,Sarah Johnson_219,candidate219@email.com,+1-555-000-0219,"Java, Linux, Kubernetes, AWS, Docker, Git, Excel, Tableau",17.6,Bachelor,74.0
+CAND_00220,John Smith_220,candidate220@email.com,+1-555-000-0220,"Machine Learning, Excel, Data Science, Linux, Git, JavaScript, Java, AWS",8.7,Bachelor,71.4
+CAND_00221,Alex Rodriguez_221,candidate221@email.com,+1-555-000-0221,"Azure, Java, Kubernetes",15.7,Master,59.0
+CAND_00222,Emma Davis_222,candidate222@email.com,+1-555-000-0222,"Python, DevOps, Docker, Tableau, Azure, Linux, AWS, Excel",18.9,Master,74.0
+CAND_00223,Emma Davis_223,candidate223@email.com,+1-555-000-0223,"SQL, AWS, JavaScript, Linux",5.5,"Bachelor, Diploma",63.0
+CAND_00224,Sarah Johnson_224,candidate224@email.com,+1-555-000-0224,"Java, AWS, Docker, JavaScript, Data Science, Machine Learning, Kubernetes, Azure, SQL",13.8,Master,77.0
+CAND_00225,Sarah Johnson_225,candidate225@email.com,+1-555-000-0225,"Excel, AWS, Linux, Docker, DevOps, JavaScript, Data Science",13.6,Bachelor,71.0
+CAND_00226,Emma Davis_226,candidate226@email.com,+1-555-000-0226,"Tableau, Git, SQL, Docker, Java, AWS, DevOps, Machine Learning",13.2,Bachelor,74.0
+CAND_00227,Alex Rodriguez_227,candidate227@email.com,+1-555-000-0227,"Python, Docker, SQL, Tableau, Excel",16.6,Master,65.0
+CAND_00228,Emma Davis_228,candidate228@email.com,+1-555-000-0228,"Machine Learning, Tableau, Azure, JavaScript",9.2,Master,60.4
+CAND_00229,Sarah Johnson_229,candidate229@email.com,+1-555-000-0229,"Kubernetes, Python, Excel, JavaScript",4.4,Bachelor,50.8
+CAND_00230,Mike Chen_230,candidate230@email.com,+1-555-000-0230,"Data Science, Linux, Python, Tableau, Java, Docker, DevOps, SQL, JavaScript",8.0,"Bachelor, Diploma",83.0
+CAND_00231,Alex Rodriguez_231,candidate231@email.com,+1-555-000-0231,"Java, Tableau, Kubernetes",5.5,Master,50.0
+CAND_00232,Alex Rodriguez_232,candidate232@email.com,+1-555-000-0232,"Data Science, Tableau, JavaScript, Docker, Azure, Kubernetes",16.8,Master,68.0
+CAND_00233,Sarah Johnson_233,candidate233@email.com,+1-555-000-0233,"Data Science, Excel, DevOps, Linux",5.6,Bachelor,53.2
+CAND_00234,John Smith_234,candidate234@email.com,+1-555-000-0234,"Azure, Machine Learning, JavaScript, Kubernetes, Python, DevOps, Tableau",17.1,Bachelor,71.0
+CAND_00235,Sarah Johnson_235,candidate235@email.com,+1-555-000-0235,"Machine Learning, Azure, Git, Java, Tableau",7.1,"Bachelor, Diploma",69.2
+CAND_00236,John Smith_236,candidate236@email.com,+1-555-000-0236,"Java, JavaScript, Git",1.2,Bachelor,41.4
+CAND_00237,Alex Rodriguez_237,candidate237@email.com,+1-555-000-0237,"Linux, Python, Java, Git",13.3,Master,62.0
+CAND_00238,Mike Chen_238,candidate238@email.com,+1-555-000-0238,"DevOps, Python, Linux, Tableau, SQL, Kubernetes, Excel",10.8,Bachelor,71.0
+CAND_00239,John Smith_239,candidate239@email.com,+1-555-000-0239,"Docker, SQL, Kubernetes, AWS, Linux, Azure, DevOps, JavaScript, Python",2.6,Master,62.2
+CAND_00240,John Smith_240,candidate240@email.com,+1-555-000-0240,"AWS, Data Science, DevOps",14.6,"Bachelor, Diploma",69.0
+CAND_00241,John Smith_241,candidate241@email.com,+1-555-000-0241,"Kubernetes, Java, Docker, Data Science",13.4,Bachelor,62.0
+CAND_00242,Mike Chen_242,candidate242@email.com,+1-555-000-0242,"Docker, Azure, AWS",8.8,Bachelor,56.6
+CAND_00243,Mike Chen_243,candidate243@email.com,+1-555-000-0243,"Docker, Excel, Java, SQL, Linux, Data Science, Git",3.6,"Bachelor, Diploma",68.2
+CAND_00244,Mike Chen_244,candidate244@email.com,+1-555-000-0244,"AWS, Azure, Kubernetes, Python, JavaScript",5.0,Master,55.0
+CAND_00245,Alex Rodriguez_245,candidate245@email.com,+1-555-000-0245,"DevOps, Tableau, Data Science, Linux",8.2,"Bachelor, Diploma",68.4
+CAND_00246,Alex Rodriguez_246,candidate246@email.com,+1-555-000-0246,"Docker, SQL, Machine Learning",7.5,"Bachelor, Diploma",64.0
+CAND_00247,John Smith_247,candidate247@email.com,+1-555-000-0247,"Git, DevOps, Machine Learning, Python, Data Science, Java",1.4,Master,50.8
+CAND_00248,Sarah Johnson_248,candidate248@email.com,+1-555-000-0248,"Docker, Kubernetes, Excel, JavaScript",1.5,Master,45.0
+CAND_00249,Emma Davis_249,candidate249@email.com,+1-555-000-0249,"Python, SQL, Linux",5.9,Bachelor,50.8
+CAND_00250,Emma Davis_250,candidate250@email.com,+1-555-000-0250,"Kubernetes, DevOps, Tableau, Python, Git",12.2,Bachelor,65.0
+CAND_00251,John Smith_251,candidate251@email.com,+1-555-000-0251,"Kubernetes, Docker, Git, Tableau, Azure",15.4,Master,65.0
+CAND_00252,John Smith_252,candidate252@email.com,+1-555-000-0252,"AWS, Git, Azure, Kubernetes, Java, Data Science, JavaScript",12.3,Master,71.0
+CAND_00253,Emma Davis_253,candidate253@email.com,+1-555-000-0253,"DevOps, Machine Learning, Excel, Kubernetes",8.8,"Bachelor, Diploma",69.6
+CAND_00254,Sarah Johnson_254,candidate254@email.com,+1-555-000-0254,"Tableau, Linux, Azure",4.3,Bachelor,47.6
+CAND_00255,Sarah Johnson_255,candidate255@email.com,+1-555-000-0255,"Machine Learning, Git, AWS, SQL, Tableau",10.9,Bachelor,65.0
+CAND_00256,Alex Rodriguez_256,candidate256@email.com,+1-555-000-0256,"Java, SQL, Excel, DevOps, Data Science, Azure, AWS, Machine Learning",17.3,"Bachelor, Diploma",84.0
+CAND_00257,Mike Chen_257,candidate257@email.com,+1-555-000-0257,"Machine Learning, DevOps, Python",1.3,"Bachelor, Diploma",51.6
+CAND_00258,Alex Rodriguez_258,candidate258@email.com,+1-555-000-0258,"Data Science, AWS, Git, Java",8.2,"Bachelor, Diploma",68.4
+CAND_00259,Sarah Johnson_259,candidate259@email.com,+1-555-000-0259,"Linux, Azure, Excel, Machine Learning, Kubernetes, SQL, Git",6.2,Bachelor,63.4
+CAND_00260,John Smith_260,candidate260@email.com,+1-555-000-0260,"Python, JavaScript, Java, Git, DevOps, Azure, Docker, Excel, Tableau",7.5,Bachelor,72.0
+CAND_00261,John Smith_261,candidate261@email.com,+1-555-000-0261,"SQL, Excel, Data Science",6.9,Bachelor,52.8
+CAND_00262,John Smith_262,candidate262@email.com,+1-555-000-0262,"Data Science, JavaScript, Tableau, Excel, Java, Kubernetes, Python, DevOps, Git",10.3,Bachelor,77.0
+CAND_00263,Mike Chen_263,candidate263@email.com,+1-555-000-0263,"Azure, AWS, Machine Learning, Kubernetes, Docker, Tableau, Java, SQL",3.3,Bachelor,60.6
+CAND_00264,Mike Chen_264,candidate264@email.com,+1-555-000-0264,"Docker, SQL, AWS, Java, Git, JavaScript, Data Science, Azure",3.4,Master,60.8
+CAND_00265,Alex Rodriguez_265,candidate265@email.com,+1-555-000-0265,"SQL, JavaScript, Data Science, Machine Learning, Tableau, Git, DevOps",4.1,Master,59.2
+CAND_00266,John Smith_266,candidate266@email.com,+1-555-000-0266,"Kubernetes, Azure, DevOps",15.1,Bachelor,59.0
+CAND_00267,Mike Chen_267,candidate267@email.com,+1-555-000-0267,"SQL, Kubernetes, Git, Linux, Tableau",7.8,"Bachelor, Diploma",70.6
+CAND_00268,Emma Davis_268,candidate268@email.com,+1-555-000-0268,"JavaScript, Java, Linux, AWS",7.5,"Bachelor, Diploma",67.0
+CAND_00269,Mike Chen_269,candidate269@email.com,+1-555-000-0269,"Python, Java, AWS, Docker, SQL, Kubernetes, Excel",7.0,"Bachelor, Diploma",75.0
+CAND_00270,John Smith_270,candidate270@email.com,+1-555-000-0270,"JavaScript, AWS, Data Science, Docker",16.1,Master,62.0
+CAND_00271,Sarah Johnson_271,candidate271@email.com,+1-555-000-0271,"SQL, Kubernetes, Linux, Data Science, Excel",17.1,Master,65.0
+CAND_00272,John Smith_272,candidate272@email.com,+1-555-000-0272,"Docker, DevOps, SQL, Java, Machine Learning, AWS",18.2,Master,68.0
+CAND_00273,Alex Rodriguez_273,candidate273@email.com,+1-555-000-0273,"AWS, Machine Learning, SQL, Linux",15.0,Bachelor,62.0
+CAND_00274,Alex Rodriguez_274,candidate274@email.com,+1-555-000-0274,"Kubernetes, Python, JavaScript, Machine Learning, DevOps, Tableau",3.8,Bachelor,55.6
+CAND_00275,John Smith_275,candidate275@email.com,+1-555-000-0275,"SQL, Java, Git, Linux, JavaScript, Docker",0.8,Master,49.6
+CAND_00276,Alex Rodriguez_276,candidate276@email.com,+1-555-000-0276,"Data Science, DevOps, Tableau, SQL, AWS, Python, JavaScript, Machine Learning",16.5,"Bachelor, Diploma",84.0
+CAND_00277,Alex Rodriguez_277,candidate277@email.com,+1-555-000-0277,"Docker, Java, AWS, Machine Learning, Azure, Kubernetes, SQL, Excel, Python",11.3,Bachelor,77.0
+CAND_00278,Emma Davis_278,candidate278@email.com,+1-555-000-0278,"Excel, Data Science, Git, AWS, Linux",8.0,Bachelor,61.0
+CAND_00279,Emma Davis_279,candidate279@email.com,+1-555-000-0279,"AWS, Tableau, Python, Azure, DevOps, Docker, Excel",4.2,"Bachelor, Diploma",69.4
+CAND_00280,Mike Chen_280,candidate280@email.com,+1-555-000-0280,"Git, Linux, Kubernetes, Java",17.3,Bachelor,62.0
+CAND_00281,Sarah Johnson_281,candidate281@email.com,+1-555-000-0281,"SQL, Linux, Excel, Python, JavaScript, Kubernetes, Java",8.3,Bachelor,67.6
+CAND_00282,Alex Rodriguez_282,candidate282@email.com,+1-555-000-0282,"Machine Learning, Data Science, AWS, Git, Azure, DevOps, Kubernetes, JavaScript, Docker",12.8,"Bachelor, Diploma",87.0
+CAND_00283,Emma Davis_283,candidate283@email.com,+1-555-000-0283,"Excel, Machine Learning, Linux, Kubernetes, Docker, Data Science, JavaScript",4.6,"Bachelor, Diploma",70.2
+CAND_00284,John Smith_284,candidate284@email.com,+1-555-000-0284,"SQL, Java, Azure, Machine Learning, JavaScript, Python",13.8,Master,68.0
+CAND_00285,Emma Davis_285,candidate285@email.com,+1-555-000-0285,"Kubernetes, JavaScript, Azure, Data Science, Java, Machine Learning, Python, Linux, Git",11.0,Master,77.0
+CAND_00286,Mike Chen_286,candidate286@email.com,+1-555-000-0286,"Data Science, Excel, DevOps, Python",19.4,Bachelor,62.0
+CAND_00287,Sarah Johnson_287,candidate287@email.com,+1-555-000-0287,"Azure, JavaScript, Java, Machine Learning, Excel, Git, AWS, SQL",18.0,Master,74.0
+CAND_00288,Sarah Johnson_288,candidate288@email.com,+1-555-000-0288,"Tableau, Python, Java, Linux, SQL, JavaScript, Excel, Machine Learning, Kubernetes",1.6,Bachelor,60.2
+CAND_00289,Alex Rodriguez_289,candidate289@email.com,+1-555-000-0289,"Excel, DevOps, Tableau",4.0,Bachelor,47.0
+CAND_00290,Sarah Johnson_290,candidate290@email.com,+1-555-000-0290,"Docker, Excel, JavaScript",7.2,"Bachelor, Diploma",63.4
+CAND_00291,John Smith_291,candidate291@email.com,+1-555-000-0291,"Excel, Tableau, Java, DevOps, Linux, JavaScript, Azure, AWS, Data Science",12.9,Bachelor,77.0
+CAND_00292,Mike Chen_292,candidate292@email.com,+1-555-000-0292,"Python, SQL, Machine Learning, Docker, DevOps, Java, Linux",7.4,Master,65.8
+CAND_00293,Sarah Johnson_293,candidate293@email.com,+1-555-000-0293,"Machine Learning, Azure, Tableau, Java",5.3,Bachelor,52.6
+CAND_00294,Mike Chen_294,candidate294@email.com,+1-555-000-0294,"Git, JavaScript, Java, Data Science",18.4,Bachelor,62.0
+CAND_00295,Alex Rodriguez_295,candidate295@email.com,+1-555-000-0295,"SQL, Kubernetes, Data Science, JavaScript",20.0,Master,62.0
+CAND_00296,Emma Davis_296,candidate296@email.com,+1-555-000-0296,"Data Science, Machine Learning, Tableau, Azure, Kubernetes, SQL, JavaScript, Python",10.0,Bachelor,74.0
+CAND_00297,Mike Chen_297,candidate297@email.com,+1-555-000-0297,"Kubernetes, Docker, AWS, Git, Linux, Data Science, Java, DevOps",18.3,Bachelor,74.0
+CAND_00298,Sarah Johnson_298,candidate298@email.com,+1-555-000-0298,"Tableau, AWS, Java, SQL, Azure, Excel, Machine Learning, Linux",17.1,"Bachelor, Diploma",84.0
+CAND_00299,Emma Davis_299,candidate299@email.com,+1-555-000-0299,"SQL, Java, DevOps, Tableau, Data Science, Docker, Git, Excel",13.4,"Bachelor, Diploma",84.0
+CAND_00300,Alex Rodriguez_300,candidate300@email.com,+1-555-000-0300,"Tableau, Machine Learning, Data Science, DevOps, SQL",18.3,Bachelor,65.0
+CAND_00301,Sarah Johnson_301,candidate301@email.com,+1-555-000-0301,"AWS, Git, Kubernetes, Java, Excel, DevOps",16.7,"Bachelor, Diploma",78.0
+CAND_00302,Sarah Johnson_302,candidate302@email.com,+1-555-000-0302,"Data Science, SQL, Excel, JavaScript, Java, Python",9.4,Master,66.8
+CAND_00303,Sarah Johnson_303,candidate303@email.com,+1-555-000-0303,"Git, Excel, Azure, SQL, Docker, Python",5.0,Master,58.0
+CAND_00304,Alex Rodriguez_304,candidate304@email.com,+1-555-000-0304,"Linux, AWS, Kubernetes, Git, JavaScript, Machine Learning",17.3,"Bachelor, Diploma",78.0
+CAND_00305,Emma Davis_305,candidate305@email.com,+1-555-000-0305,"JavaScript, Java, Kubernetes, Machine Learning, AWS, Excel, DevOps, Docker",10.9,"Bachelor, Diploma",84.0
+CAND_00306,Alex Rodriguez_306,candidate306@email.com,+1-555-000-0306,"Machine Learning, Excel, Python, Linux, DevOps, Data Science, Tableau, Kubernetes, Azure",0.2,"Bachelor, Diploma",67.4
+CAND_00307,Mike Chen_307,candidate307@email.com,+1-555-000-0307,"DevOps, Machine Learning, Java, SQL, JavaScript, Python, Tableau",14.0,Master,71.0
+CAND_00308,Emma Davis_308,candidate308@email.com,+1-555-000-0308,"AWS, Linux, Excel, JavaScript, Python, Machine Learning",8.6,Bachelor,65.2
+CAND_00309,John Smith_309,candidate309@email.com,+1-555-000-0309,"Data Science, SQL, JavaScript",1.5,"Bachelor, Diploma",52.0
+CAND_00310,Alex Rodriguez_310,candidate310@email.com,+1-555-000-0310,"SQL, Excel, Java",7.7,Bachelor,54.4
+CAND_00311,Emma Davis_311,candidate311@email.com,+1-555-000-0311,"Kubernetes, JavaScript, SQL, Tableau, Linux",13.1,Master,65.0
+CAND_00312,Alex Rodriguez_312,candidate312@email.com,+1-555-000-0312,"Kubernetes, Java, Azure",18.8,Bachelor,59.0
+CAND_00313,Emma Davis_313,candidate313@email.com,+1-555-000-0313,"Excel, Linux, Data Science, Machine Learning, Kubernetes, DevOps, Azure",5.8,Master,62.6
+CAND_00314,Mike Chen_314,candidate314@email.com,+1-555-000-0314,"Tableau, Git, AWS, Machine Learning, Python, Excel, Docker, Kubernetes",17.7,"Bachelor, Diploma",84.0
+CAND_00315,Sarah Johnson_315,candidate315@email.com,+1-555-000-0315,"SQL, Python, Kubernetes, DevOps, Git, Docker, AWS, Excel, Java",17.9,Master,77.0
+CAND_00316,Sarah Johnson_316,candidate316@email.com,+1-555-000-0316,"Git, JavaScript, Linux, Kubernetes, AWS, Python, Machine Learning",17.7,Master,71.0
+CAND_00317,Alex Rodriguez_317,candidate317@email.com,+1-555-000-0317,"Kubernetes, DevOps, Tableau, Java, Data Science",7.6,Master,60.2
+CAND_00318,Emma Davis_318,candidate318@email.com,+1-555-000-0318,"SQL, AWS, Linux, Git, Azure",17.7,Bachelor,65.0
+CAND_00319,Mike Chen_319,candidate319@email.com,+1-555-000-0319,"JavaScript, SQL, Docker, AWS, Python, Git, Linux, Azure, Data Science",12.0,Bachelor,77.0
+CAND_00320,John Smith_320,candidate320@email.com,+1-555-000-0320,"Linux, JavaScript, Data Science, Machine Learning, SQL",1.0,Bachelor,47.0
+CAND_00321,Mike Chen_321,candidate321@email.com,+1-555-000-0321,"Docker, DevOps, Python, Linux, Kubernetes",19.5,Master,65.0
+CAND_00322,Sarah Johnson_322,candidate322@email.com,+1-555-000-0322,"JavaScript, Machine Learning, DevOps, Java, Azure",12.5,Bachelor,65.0
+CAND_00323,John Smith_323,candidate323@email.com,+1-555-000-0323,"Azure, Kubernetes, Python, Machine Learning, Docker, Java, Tableau, Git, Data Science",18.2,Master,77.0
+CAND_00324,Emma Davis_324,candidate324@email.com,+1-555-000-0324,"Kubernetes, Python, Git, Docker, JavaScript, Data Science, Machine Learning, Excel",4.9,"Bachelor, Diploma",73.8
+CAND_00325,Emma Davis_325,candidate325@email.com,+1-555-000-0325,"DevOps, Java, AWS, Git, Python, Linux, Kubernetes, Azure",16.5,Bachelor,74.0
+CAND_00326,Mike Chen_326,candidate326@email.com,+1-555-000-0326,"DevOps, Kubernetes, Tableau, JavaScript, Docker, Python, Machine Learning, Linux, Java",19.5,Master,77.0
+CAND_00327,Emma Davis_327,candidate327@email.com,+1-555-000-0327,"Azure, Kubernetes, Docker",16.5,Master,59.0
+CAND_00328,Mike Chen_328,candidate328@email.com,+1-555-000-0328,"Tableau, Machine Learning, JavaScript, SQL, Azure, Kubernetes, Docker, Excel, AWS",5.8,Bachelor,68.6
+CAND_00329,Alex Rodriguez_329,candidate329@email.com,+1-555-000-0329,"Docker, Linux, AWS, Machine Learning, SQL, Kubernetes, Excel",5.5,Master,62.0
+CAND_00330,Sarah Johnson_330,candidate330@email.com,+1-555-000-0330,"JavaScript, SQL, Tableau, Git",14.0,Bachelor,62.0
+CAND_00331,Mike Chen_331,candidate331@email.com,+1-555-000-0331,"AWS, Docker, Azure, JavaScript",13.5,Master,62.0
+CAND_00332,Emma Davis_332,candidate332@email.com,+1-555-000-0332,"Python, JavaScript, Data Science, Azure",18.3,Bachelor,62.0
+CAND_00333,Mike Chen_333,candidate333@email.com,+1-555-000-0333,"Excel, Data Science, JavaScript, Git, Java, Docker, DevOps",0.0,Bachelor,51.0
+CAND_00334,Emma Davis_334,candidate334@email.com,+1-555-000-0334,"Machine Learning, Tableau, Java, DevOps, Linux, Data Science, Git",16.3,"Bachelor, Diploma",81.0
+CAND_00335,Alex Rodriguez_335,candidate335@email.com,+1-555-000-0335,"Data Science, Java, Azure, DevOps",0.3,Master,42.6
+CAND_00336,Mike Chen_336,candidate336@email.com,+1-555-000-0336,"Data Science, Kubernetes, Python, Excel, Tableau",1.9,Bachelor,48.8
+CAND_00337,Alex Rodriguez_337,candidate337@email.com,+1-555-000-0337,"Linux, AWS, Java, Docker, Python, Machine Learning, DevOps, SQL, JavaScript",6.1,Bachelor,69.2
+CAND_00338,Mike Chen_338,candidate338@email.com,+1-555-000-0338,"Docker, Java, Git, Excel, Tableau, SQL",15.1,"Bachelor, Diploma",78.0
+CAND_00339,Mike Chen_339,candidate339@email.com,+1-555-000-0339,"Python, Excel, Java, Data Science, JavaScript, Kubernetes, AWS, Docker",2.2,Bachelor,58.4
+CAND_00340,Mike Chen_340,candidate340@email.com,+1-555-000-0340,"AWS, Python, Tableau, Java, Excel, Azure, Data Science",18.7,Master,71.0
+CAND_00341,Emma Davis_341,candidate341@email.com,+1-555-000-0341,"Linux, Java, Git, AWS, Docker, Tableau, Machine Learning, Kubernetes",3.8,Master,61.6
+CAND_00342,Sarah Johnson_342,candidate342@email.com,+1-555-000-0342,"Git, Tableau, Java, SQL, Python",7.9,Master,60.8
+CAND_00343,Emma Davis_343,candidate343@email.com,+1-555-000-0343,"SQL, Kubernetes, Git, JavaScript, AWS",3.3,Bachelor,51.6
+CAND_00344,John Smith_344,candidate344@email.com,+1-555-000-0344,"Python, Docker, Git",16.3,"Bachelor, Diploma",69.0
+CAND_00345,Mike Chen_345,candidate345@email.com,+1-555-000-0345,"DevOps, Git, Kubernetes, AWS",3.3,Master,48.6
+CAND_00346,Sarah Johnson_346,candidate346@email.com,+1-555-000-0346,"DevOps, Linux, Azure, Git, Excel, Tableau, AWS, Kubernetes",11.3,"Bachelor, Diploma",84.0
+CAND_00347,Mike Chen_347,candidate347@email.com,+1-555-000-0347,"Machine Learning, Kubernetes, Excel, Data Science, Java, Azure",16.6,Bachelor,68.0
+CAND_00348,Mike Chen_348,candidate348@email.com,+1-555-000-0348,"Linux, Machine Learning, Kubernetes, JavaScript",7.9,Master,57.8
+CAND_00349,John Smith_349,candidate349@email.com,+1-555-000-0349,"Kubernetes, Tableau, Git, DevOps, JavaScript, Docker, Azure",1.7,"Bachelor, Diploma",64.4
+CAND_00350,Sarah Johnson_350,candidate350@email.com,+1-555-000-0350,"Machine Learning, Python, Data Science, DevOps, Kubernetes",18.1,"Bachelor, Diploma",75.0
+CAND_00351,Emma Davis_351,candidate351@email.com,+1-555-000-0351,"AWS, Machine Learning, JavaScript, Excel, Docker",0.3,Bachelor,45.6
+CAND_00352,Alex Rodriguez_352,candidate352@email.com,+1-555-000-0352,"Linux, Git, Tableau, SQL, Kubernetes, Java",10.9,Bachelor,68.0
+CAND_00353,Alex Rodriguez_353,candidate353@email.com,+1-555-000-0353,"Python, Java, Docker, SQL, Machine Learning",2.9,Master,50.8
+CAND_00354,Sarah Johnson_354,candidate354@email.com,+1-555-000-0354,"SQL, DevOps, Data Science, Python, Java",10.5,Bachelor,65.0
+CAND_00355,Mike Chen_355,candidate355@email.com,+1-555-000-0355,"Azure, JavaScript, AWS, Docker, Linux",19.8,Master,65.0
+CAND_00356,Mike Chen_356,candidate356@email.com,+1-555-000-0356,"Docker, DevOps, Azure",3.5,Bachelor,46.0
+CAND_00357,Alex Rodriguez_357,candidate357@email.com,+1-555-000-0357,"Data Science, Python, JavaScript, Git",9.5,"Bachelor, Diploma",71.0
+CAND_00358,Mike Chen_358,candidate358@email.com,+1-555-000-0358,"Excel, Data Science, Python, SQL",8.2,"Bachelor, Diploma",68.4
+CAND_00359,Mike Chen_359,candidate359@email.com,+1-555-000-0359,"Azure, Excel, Data Science, Java",13.8,Bachelor,62.0
+CAND_00360,John Smith_360,candidate360@email.com,+1-555-000-0360,"Python, Java, Tableau, Machine Learning, Kubernetes, Data Science, AWS, SQL",17.6,"Bachelor, Diploma",84.0
+CAND_00361,Mike Chen_361,candidate361@email.com,+1-555-000-0361,"Machine Learning, SQL, DevOps",6.3,Bachelor,51.6
+CAND_00362,Alex Rodriguez_362,candidate362@email.com,+1-555-000-0362,"Git, Linux, Tableau, DevOps, Machine Learning, AWS, Python, Excel, Azure",14.7,Master,77.0
+CAND_00363,Alex Rodriguez_363,candidate363@email.com,+1-555-000-0363,"JavaScript, Excel, Git",5.7,Master,50.4
+CAND_00364,Emma Davis_364,candidate364@email.com,+1-555-000-0364,"Git, Azure, Data Science, SQL, Linux",10.4,"Bachelor, Diploma",75.0
+CAND_00365,John Smith_365,candidate365@email.com,+1-555-000-0365,"Azure, Kubernetes, Data Science",5.1,Bachelor,49.2
+CAND_00366,John Smith_366,candidate366@email.com,+1-555-000-0366,"Linux, Excel, JavaScript, SQL",14.5,Master,62.0
+CAND_00367,Alex Rodriguez_367,candidate367@email.com,+1-555-000-0367,"JavaScript, Docker, Azure, Data Science, Tableau, Git",6.7,Master,61.4
+CAND_00368,Alex Rodriguez_368,candidate368@email.com,+1-555-000-0368,"Git, Docker, Tableau, DevOps, Python, Azure, JavaScript, Kubernetes, Machine Learning",4.4,Bachelor,65.8
+CAND_00369,Alex Rodriguez_369,candidate369@email.com,+1-555-000-0369,"Python, Azure, Excel, JavaScript, Git, Java",16.1,Bachelor,68.0
+CAND_00370,Mike Chen_370,candidate370@email.com,+1-555-000-0370,"Kubernetes, Excel, Azure, Tableau, Linux, Python, DevOps, Git",8.6,Master,71.2
+CAND_00371,Emma Davis_371,candidate371@email.com,+1-555-000-0371,"Python, Kubernetes, Data Science, Excel",15.7,"Bachelor, Diploma",72.0
+CAND_00372,Sarah Johnson_372,candidate372@email.com,+1-555-000-0372,"AWS, Java, Git, Data Science, Tableau, Kubernetes, SQL, Azure, Excel",9.7,Bachelor,76.4
+CAND_00373,Mike Chen_373,candidate373@email.com,+1-555-000-0373,"Kubernetes, Git, AWS, Excel, Machine Learning, Azure",6.6,Bachelor,61.2
+CAND_00374,John Smith_374,candidate374@email.com,+1-555-000-0374,"Python, Kubernetes, Docker, SQL",5.8,Master,53.6
+CAND_00375,Emma Davis_375,candidate375@email.com,+1-555-000-0375,"Java, Tableau, Docker, Data Science, AWS, Git, DevOps",19.2,Bachelor,71.0
+CAND_00376,Mike Chen_376,candidate376@email.com,+1-555-000-0376,"Tableau, Azure, Kubernetes, JavaScript, DevOps, Linux, SQL, Docker, Java",9.2,"Bachelor, Diploma",85.4
+CAND_00377,Mike Chen_377,candidate377@email.com,+1-555-000-0377,"Git, AWS, Machine Learning, Linux, Azure, Data Science",7.0,"Bachelor, Diploma",72.0
+CAND_00378,Sarah Johnson_378,candidate378@email.com,+1-555-000-0378,"Azure, Excel, JavaScript, Docker, DevOps, Data Science, AWS, Python",10.6,Bachelor,74.0
+CAND_00379,Mike Chen_379,candidate379@email.com,+1-555-000-0379,"JavaScript, DevOps, Data Science, SQL, Excel, AWS, Python, Java",9.4,Bachelor,72.8
+CAND_00380,Emma Davis_380,candidate380@email.com,+1-555-000-0380,"JavaScript, DevOps, Machine Learning, Azure, Kubernetes, AWS, SQL",19.9,Bachelor,71.0
+CAND_00381,Mike Chen_381,candidate381@email.com,+1-555-000-0381,"Docker, Azure, Git, Linux, SQL",16.4,Master,65.0
+CAND_00382,John Smith_382,candidate382@email.com,+1-555-000-0382,"Azure, Data Science, Linux, JavaScript, Excel, AWS, Machine Learning, SQL",12.4,Master,74.0
+CAND_00383,Sarah Johnson_383,candidate383@email.com,+1-555-000-0383,"Tableau, JavaScript, Git, Linux, Data Science, AWS, Python, Machine Learning, Kubernetes",8.9,Master,74.8
+CAND_00384,Emma Davis_384,candidate384@email.com,+1-555-000-0384,"Python, Linux, DevOps",5.6,Master,50.2
+CAND_00385,John Smith_385,candidate385@email.com,+1-555-000-0385,"Tableau, DevOps, Azure, Kubernetes, Linux, Excel, Docker, JavaScript",6.7,"Bachelor, Diploma",77.4
+CAND_00386,Sarah Johnson_386,candidate386@email.com,+1-555-000-0386,"Excel, Linux, Data Science, Java, AWS, Git, SQL, DevOps",16.2,Master,74.0
+CAND_00387,Sarah Johnson_387,candidate387@email.com,+1-555-000-0387,"Linux, Kubernetes, AWS, SQL",6.5,Bachelor,55.0
+CAND_00388,Emma Davis_388,candidate388@email.com,+1-555-000-0388,"Java, Kubernetes, Docker, Excel, DevOps, Git, Machine Learning",9.7,Bachelor,70.4
+CAND_00389,Mike Chen_389,candidate389@email.com,+1-555-000-0389,"JavaScript, Azure, DevOps",15.1,Bachelor,59.0
+CAND_00390,Alex Rodriguez_390,candidate390@email.com,+1-555-000-0390,"Machine Learning, Git, JavaScript, Excel",8.0,Master,58.0
+CAND_00391,Alex Rodriguez_391,candidate391@email.com,+1-555-000-0391,"Java, Azure, Kubernetes",10.1,"Bachelor, Diploma",69.0
+CAND_00392,Alex Rodriguez_392,candidate392@email.com,+1-555-000-0392,"Git, AWS, Azure, SQL",18.5,"Bachelor, Diploma",72.0
+CAND_00393,Mike Chen_393,candidate393@email.com,+1-555-000-0393,"JavaScript, Machine Learning, Kubernetes, Python, Git, AWS, Tableau, Excel",19.4,Master,74.0
+CAND_00394,Sarah Johnson_394,candidate394@email.com,+1-555-000-0394,"Azure, Tableau, Linux, JavaScript, AWS, Excel",8.2,Bachelor,64.4
+CAND_00395,John Smith_395,candidate395@email.com,+1-555-000-0395,"Java, JavaScript, SQL",0.1,Bachelor,39.2
+CAND_00396,Alex Rodriguez_396,candidate396@email.com,+1-555-000-0396,"JavaScript, Azure, SQL, Excel, Docker, Git",14.6,Bachelor,68.0
+CAND_00397,Mike Chen_397,candidate397@email.com,+1-555-000-0397,"Git, Azure, AWS, Linux",10.0,Bachelor,62.0
+CAND_00398,John Smith_398,candidate398@email.com,+1-555-000-0398,"Azure, Tableau, Docker, Git",11.4,Master,62.0
+CAND_00399,Sarah Johnson_399,candidate399@email.com,+1-555-000-0399,"Excel, Java, Linux, Azure, DevOps, AWS, Machine Learning, SQL, Kubernetes",7.9,Bachelor,72.8
+CAND_00400,Emma Davis_400,candidate400@email.com,+1-555-000-0400,"Machine Learning, Excel, Tableau, AWS, Java, JavaScript, Git, Python",9.7,Bachelor,73.4
+CAND_00401,Alex Rodriguez_401,candidate401@email.com,+1-555-000-0401,"Azure, Tableau, Docker, AWS, Machine Learning, Kubernetes, DevOps, Linux, Python",13.6,Master,77.0
+CAND_00402,Sarah Johnson_402,candidate402@email.com,+1-555-000-0402,"Excel, AWS, JavaScript, Git, Linux, Tableau",12.0,Master,68.0
+CAND_00403,Mike Chen_403,candidate403@email.com,+1-555-000-0403,"AWS, Python, Machine Learning, Kubernetes, Tableau, Docker",7.9,Bachelor,63.8
+CAND_00404,Alex Rodriguez_404,candidate404@email.com,+1-555-000-0404,"Machine Learning, Tableau, Azure, Python, Java, Kubernetes, Data Science, JavaScript",10.7,Master,74.0
+CAND_00405,Emma Davis_405,candidate405@email.com,+1-555-000-0405,"SQL, Tableau, Docker, Excel, JavaScript, Git, Java, DevOps",14.4,"Bachelor, Diploma",84.0
+CAND_00406,Alex Rodriguez_406,candidate406@email.com,+1-555-000-0406,"AWS, Tableau, Docker, SQL, Linux, Kubernetes, Azure, JavaScript, Git",3.5,Master,64.0
+CAND_00407,Sarah Johnson_407,candidate407@email.com,+1-555-000-0407,"Docker, Tableau, Excel, Git, DevOps, Azure, Kubernetes, Data Science",0.5,Bachelor,55.0
+CAND_00408,Alex Rodriguez_408,candidate408@email.com,+1-555-000-0408,"JavaScript, Azure, Python, Docker",17.1,Master,62.0
+CAND_00409,John Smith_409,candidate409@email.com,+1-555-000-0409,"Machine Learning, JavaScript, Azure, DevOps, AWS, Tableau",17.0,Bachelor,68.0
+CAND_00410,Emma Davis_410,candidate410@email.com,+1-555-000-0410,"Docker, SQL, DevOps, Tableau, Python",9.5,Master,64.0
+CAND_00411,Alex Rodriguez_411,candidate411@email.com,+1-555-000-0411,"AWS, Azure, Excel",8.0,Bachelor,55.0
+CAND_00412,Alex Rodriguez_412,candidate412@email.com,+1-555-000-0412,"Azure, Machine Learning, Tableau, Excel, JavaScript, SQL, Data Science, DevOps, Linux",11.4,Bachelor,77.0
+CAND_00413,Sarah Johnson_413,candidate413@email.com,+1-555-000-0413,"Azure, Tableau, Excel, JavaScript, Linux, Git, Kubernetes, Machine Learning",10.3,"Bachelor, Diploma",84.0
+CAND_00414,Alex Rodriguez_414,candidate414@email.com,+1-555-000-0414,"Tableau, Linux, DevOps, Kubernetes, Machine Learning, AWS, Java",10.9,Bachelor,71.0
+CAND_00415,Sarah Johnson_415,candidate415@email.com,+1-555-000-0415,"DevOps, AWS, Azure, Python, Machine Learning",13.9,Bachelor,65.0
+CAND_00416,Emma Davis_416,candidate416@email.com,+1-555-000-0416,"Excel, Linux, Azure, Python",6.2,Bachelor,54.4
+CAND_00417,Mike Chen_417,candidate417@email.com,+1-555-000-0417,"Java, JavaScript, Data Science, Git, DevOps",16.9,Bachelor,65.0
+CAND_00418,Mike Chen_418,candidate418@email.com,+1-555-000-0418,"JavaScript, Java, Git, Azure, Docker, Excel, Python, Tableau",12.7,Master,74.0
+CAND_00419,Alex Rodriguez_419,candidate419@email.com,+1-555-000-0419,"JavaScript, Linux, DevOps, Kubernetes, Machine Learning, Python, AWS",20.0,Bachelor,71.0
+CAND_00420,Mike Chen_420,candidate420@email.com,+1-555-000-0420,"AWS, Linux, Git, Machine Learning, Docker, Python, DevOps",12.8,"Bachelor, Diploma",81.0
+CAND_00421,Sarah Johnson_421,candidate421@email.com,+1-555-000-0421,"JavaScript, Kubernetes, Python, Azure, Data Science",9.5,Bachelor,64.0
+CAND_00422,John Smith_422,candidate422@email.com,+1-555-000-0422,"Linux, AWS, DevOps",11.7,Bachelor,59.0
+CAND_00423,Emma Davis_423,candidate423@email.com,+1-555-000-0423,"Azure, Data Science, AWS, Linux, Machine Learning, DevOps, SQL, Python, Tableau",8.9,"Bachelor, Diploma",84.8
+CAND_00424,Sarah Johnson_424,candidate424@email.com,+1-555-000-0424,"Kubernetes, AWS, Excel, Git, DevOps, Tableau, Docker, Data Science",8.3,"Bachelor, Diploma",80.6
+CAND_00425,Emma Davis_425,candidate425@email.com,+1-555-000-0425,"Tableau, Linux, Machine Learning, Kubernetes, JavaScript, DevOps, Data Science, Java, Python",3.5,Master,64.0
+CAND_00426,Alex Rodriguez_426,candidate426@email.com,+1-555-000-0426,"Python, Git, Azure, Kubernetes, Data Science, Excel",9.7,Bachelor,67.4
+CAND_00427,John Smith_427,candidate427@email.com,+1-555-000-0427,"Docker, DevOps, Linux, Java",0.4,Master,42.8
+CAND_00428,Sarah Johnson_428,candidate428@email.com,+1-555-000-0428,"Machine Learning, Data Science, Git, DevOps, Docker, AWS, Python, Java",10.7,Bachelor,74.0
+CAND_00429,Sarah Johnson_429,candidate429@email.com,+1-555-000-0429,"JavaScript, Linux, Git, Java, Excel, SQL, DevOps, Tableau, Kubernetes",19.2,Bachelor,77.0
+CAND_00430,Emma Davis_430,candidate430@email.com,+1-555-000-0430,"Kubernetes, Docker, Tableau, SQL, Data Science, Excel, AWS, Java, DevOps",8.8,Master,74.6
+CAND_00431,Mike Chen_431,candidate431@email.com,+1-555-000-0431,"Excel, SQL, Machine Learning, Python, Git, Tableau",0.1,"Bachelor, Diploma",58.2
+CAND_00432,Mike Chen_432,candidate432@email.com,+1-555-000-0432,"Tableau, AWS, Linux, Kubernetes, DevOps, Java, Docker, JavaScript, Python",19.9,Bachelor,77.0
+CAND_00433,Alex Rodriguez_433,candidate433@email.com,+1-555-000-0433,"Java, JavaScript, Tableau, DevOps, Excel, Git, Data Science, AWS, Machine Learning",5.4,Bachelor,67.8
+CAND_00434,Mike Chen_434,candidate434@email.com,+1-555-000-0434,"Git, SQL, AWS, Docker",0.6,Bachelor,43.2
+CAND_00435,Sarah Johnson_435,candidate435@email.com,+1-555-000-0435,"Docker, Azure, Tableau, Excel, Java, Kubernetes, Machine Learning, Data Science",3.7,Bachelor,61.4
+CAND_00436,Mike Chen_436,candidate436@email.com,+1-555-000-0436,"Data Science, Kubernetes, AWS, JavaScript, Machine Learning, Excel, Azure, SQL",9.2,Bachelor,72.4
+CAND_00437,Emma Davis_437,candidate437@email.com,+1-555-000-0437,"DevOps, Azure, Git",3.5,Bachelor,46.0
+CAND_00438,Sarah Johnson_438,candidate438@email.com,+1-555-000-0438,"Tableau, JavaScript, AWS, DevOps, Java, Linux, Git",6.2,"Bachelor, Diploma",73.4
+CAND_00439,Alex Rodriguez_439,candidate439@email.com,+1-555-000-0439,"Java, Machine Learning, AWS, Kubernetes",13.5,Bachelor,62.0
+CAND_00440,Alex Rodriguez_440,candidate440@email.com,+1-555-000-0440,"Machine Learning, Python, SQL, Git",4.0,Bachelor,50.0
+CAND_00441,Mike Chen_441,candidate441@email.com,+1-555-000-0441,"Machine Learning, Excel, Linux, DevOps",2.8,"Bachelor, Diploma",57.6
+CAND_00442,Emma Davis_442,candidate442@email.com,+1-555-000-0442,"Data Science, Linux, Java, Git, DevOps",0.3,Master,45.6
+CAND_00443,Emma Davis_443,candidate443@email.com,+1-555-000-0443,"AWS, Excel, Docker",2.7,"Bachelor, Diploma",54.4
+CAND_00444,Alex Rodriguez_444,candidate444@email.com,+1-555-000-0444,"JavaScript, Azure, Java, Excel",7.9,Bachelor,57.8
+CAND_00445,Alex Rodriguez_445,candidate445@email.com,+1-555-000-0445,"Python, Machine Learning, Tableau, Azure, SQL",0.5,Bachelor,46.0
+CAND_00446,Sarah Johnson_446,candidate446@email.com,+1-555-000-0446,"Kubernetes, Tableau, Data Science, JavaScript",6.1,Master,54.2
+CAND_00447,Alex Rodriguez_447,candidate447@email.com,+1-555-000-0447,"Data Science, Git, Docker, JavaScript, Java, Azure, Excel, Tableau",16.5,Bachelor,74.0
+CAND_00448,Alex Rodriguez_448,candidate448@email.com,+1-555-000-0448,"Machine Learning, AWS, SQL, DevOps, Tableau, Linux, Azure, Kubernetes",13.3,Bachelor,74.0
+CAND_00449,Sarah Johnson_449,candidate449@email.com,+1-555-000-0449,"Tableau, Azure, Python, Git, JavaScript, Excel, Machine Learning, Java, Linux",16.4,"Bachelor, Diploma",87.0
+CAND_00450,John Smith_450,candidate450@email.com,+1-555-000-0450,"Java, Python, Excel, Kubernetes, AWS, Git, DevOps, SQL, Docker",20.0,Bachelor,77.0
+CAND_00451,Mike Chen_451,candidate451@email.com,+1-555-000-0451,"Data Science, AWS, Machine Learning, Excel, DevOps, Kubernetes, JavaScript",15.0,Master,71.0
+CAND_00452,John Smith_452,candidate452@email.com,+1-555-000-0452,"Python, Docker, Kubernetes, JavaScript",6.2,Master,54.4
+CAND_00453,Alex Rodriguez_453,candidate453@email.com,+1-555-000-0453,"Linux, Kubernetes, Excel, Docker, SQL, Tableau, Java, Machine Learning, Git",13.3,Bachelor,77.0
+CAND_00454,John Smith_454,candidate454@email.com,+1-555-000-0454,"DevOps, Python, Tableau, Data Science, Machine Learning",2.7,"Bachelor, Diploma",60.4
+CAND_00455,Sarah Johnson_455,candidate455@email.com,+1-555-000-0455,"Git, Machine Learning, Tableau, Python, Data Science, Java, SQL",11.7,Master,71.0
+CAND_00456,John Smith_456,candidate456@email.com,+1-555-000-0456,"JavaScript, Kubernetes, Java, Data Science, Linux, Git, Python",16.4,Bachelor,71.0
+CAND_00457,Sarah Johnson_457,candidate457@email.com,+1-555-000-0457,"DevOps, SQL, Azure",5.7,Master,50.4
+CAND_00458,Sarah Johnson_458,candidate458@email.com,+1-555-000-0458,"Linux, Tableau, Kubernetes",12.4,Master,59.0
+CAND_00459,John Smith_459,candidate459@email.com,+1-555-000-0459,"Excel, Machine Learning, JavaScript, Git",0.7,"Bachelor, Diploma",53.4
+CAND_00460,John Smith_460,candidate460@email.com,+1-555-000-0460,"Data Science, Machine Learning, AWS, SQL, Tableau, Java, Linux, DevOps, Python",5.1,"Bachelor, Diploma",77.2
+CAND_00461,Mike Chen_461,candidate461@email.com,+1-555-000-0461,"Tableau, Excel, Azure, Kubernetes",7.1,Master,56.2
+CAND_00462,Emma Davis_462,candidate462@email.com,+1-555-000-0462,"Machine Learning, Azure, SQL, Tableau, Git, Java, Linux, Kubernetes, AWS",19.4,Bachelor,77.0
+CAND_00463,Mike Chen_463,candidate463@email.com,+1-555-000-0463,"AWS, Machine Learning, Data Science, Git, Java, Tableau",2.8,Bachelor,53.6
+CAND_00464,Emma Davis_464,candidate464@email.com,+1-555-000-0464,"JavaScript, Docker, Python, Kubernetes, Azure, Java, Linux",10.7,Master,71.0
+CAND_00465,Mike Chen_465,candidate465@email.com,+1-555-000-0465,"Excel, Git, Java, DevOps, Machine Learning, JavaScript, SQL, Kubernetes, Python",3.3,Master,63.6
+CAND_00466,Emma Davis_466,candidate466@email.com,+1-555-000-0466,"DevOps, AWS, Machine Learning",9.0,Bachelor,57.0
+CAND_00467,Sarah Johnson_467,candidate467@email.com,+1-555-000-0467,"JavaScript, SQL, Docker, Kubernetes, Azure",5.4,Bachelor,55.8
+CAND_00468,Alex Rodriguez_468,candidate468@email.com,+1-555-000-0468,"Excel, Docker, AWS, Tableau, JavaScript, Git, Linux, Python",17.4,Bachelor,74.0
+CAND_00469,Alex Rodriguez_469,candidate469@email.com,+1-555-000-0469,"JavaScript, Tableau, Kubernetes, Docker",10.1,Master,62.0
+CAND_00470,Mike Chen_470,candidate470@email.com,+1-555-000-0470,"Azure, Excel, SQL, Kubernetes, Docker, AWS, DevOps, Tableau, Git",8.4,Master,73.8
+CAND_00471,Alex Rodriguez_471,candidate471@email.com,+1-555-000-0471,"Git, Data Science, Linux, Kubernetes, SQL, Python, Azure",15.7,Bachelor,71.0
+CAND_00472,Mike Chen_472,candidate472@email.com,+1-555-000-0472,"SQL, Git, Docker, Python, JavaScript, Azure, Tableau, Java",12.7,"Bachelor, Diploma",84.0
+CAND_00473,Alex Rodriguez_473,candidate473@email.com,+1-555-000-0473,"Kubernetes, Linux, Git, AWS, Azure, Machine Learning",1.9,Bachelor,51.8
+CAND_00474,Mike Chen_474,candidate474@email.com,+1-555-000-0474,"Data Science, Azure, Linux, AWS, SQL",8.1,Master,61.2
+CAND_00475,Sarah Johnson_475,candidate475@email.com,+1-555-000-0475,"Linux, Excel, AWS, Azure, DevOps, Machine Learning, Python, SQL, Docker",4.7,"Bachelor, Diploma",76.4
+CAND_00476,Sarah Johnson_476,candidate476@email.com,+1-555-000-0476,"Tableau, JavaScript, Machine Learning, SQL, Docker, Azure",9.0,Bachelor,66.0
+CAND_00477,Mike Chen_477,candidate477@email.com,+1-555-000-0477,"AWS, JavaScript, SQL, DevOps, Kubernetes, Java, Azure",9.0,Master,69.0
+CAND_00478,Sarah Johnson_478,candidate478@email.com,+1-555-000-0478,"Excel, AWS, SQL",10.9,Bachelor,59.0
+CAND_00479,Mike Chen_479,candidate479@email.com,+1-555-000-0479,"JavaScript, Kubernetes, Azure",18.7,Bachelor,59.0
+CAND_00480,Alex Rodriguez_480,candidate480@email.com,+1-555-000-0480,"Linux, Excel, DevOps, AWS, SQL, Tableau, Java, Machine Learning, JavaScript",4.9,Master,66.8
+CAND_00481,Emma Davis_481,candidate481@email.com,+1-555-000-0481,"Python, Data Science, Kubernetes",4.2,Bachelor,47.4
+CAND_00482,John Smith_482,candidate482@email.com,+1-555-000-0482,"AWS, Linux, Azure, SQL, DevOps, Excel, Docker, Kubernetes, Java",3.2,Master,63.4
+CAND_00483,Emma Davis_483,candidate483@email.com,+1-555-000-0483,"SQL, Git, Excel",2.8,Master,44.6
+CAND_00484,Alex Rodriguez_484,candidate484@email.com,+1-555-000-0484,"Excel, Tableau, AWS, Azure, Java, Docker",19.4,Bachelor,68.0
+CAND_00485,John Smith_485,candidate485@email.com,+1-555-000-0485,"Linux, Machine Learning, SQL, Excel, Tableau",2.9,Bachelor,50.8
+CAND_00486,Sarah Johnson_486,candidate486@email.com,+1-555-000-0486,"Excel, Python, Tableau, Kubernetes, Azure",1.4,Master,47.8
+CAND_00487,Alex Rodriguez_487,candidate487@email.com,+1-555-000-0487,"Java, Excel, DevOps",19.2,Master,59.0
+CAND_00488,Emma Davis_488,candidate488@email.com,+1-555-000-0488,"Git, Data Science, Java, Kubernetes",10.9,Bachelor,62.0
+CAND_00489,Alex Rodriguez_489,candidate489@email.com,+1-555-000-0489,"Python, Azure, JavaScript, SQL, AWS, Excel, Tableau",15.8,Bachelor,71.0
+CAND_00490,Alex Rodriguez_490,candidate490@email.com,+1-555-000-0490,"Git, Tableau, Azure, JavaScript, Linux, AWS, Excel, SQL",2.3,Bachelor,58.6
+CAND_00491,Alex Rodriguez_491,candidate491@email.com,+1-555-000-0491,"DevOps, SQL, Azure, Git, Java, Kubernetes, JavaScript, Data Science",11.7,Master,74.0
+CAND_00492,Emma Davis_492,candidate492@email.com,+1-555-000-0492,"DevOps, Data Science, SQL, JavaScript",15.9,Bachelor,62.0
+CAND_00493,Mike Chen_493,candidate493@email.com,+1-555-000-0493,"Machine Learning, Azure, Git",6.0,Master,51.0
+CAND_00494,John Smith_494,candidate494@email.com,+1-555-000-0494,"JavaScript, Linux, DevOps, Docker, AWS, Data Science",9.8,Bachelor,67.6
+CAND_00495,Emma Davis_495,candidate495@email.com,+1-555-000-0495,"SQL, Kubernetes, Python, AWS, JavaScript, Excel, Git",5.4,Master,61.8
+CAND_00496,Mike Chen_496,candidate496@email.com,+1-555-000-0496,"Data Science, Tableau, JavaScript, Python",0.8,Master,43.6
+CAND_00497,Sarah Johnson_497,candidate497@email.com,+1-555-000-0497,"Java, Data Science, Tableau, Machine Learning, Kubernetes, Linux, Azure, SQL",7.5,Master,69.0
+CAND_00498,Alex Rodriguez_498,candidate498@email.com,+1-555-000-0498,"Python, AWS, Tableau, Docker, Kubernetes",7.2,Bachelor,59.4
+CAND_00499,Mike Chen_499,candidate499@email.com,+1-555-000-0499,"DevOps, Kubernetes, Git, Tableau, SQL",14.5,Master,65.0
